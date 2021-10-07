@@ -207,5 +207,20 @@ hr {
     background-position: center;
     width: 100%;
     overflow: hidden;
-
 }
+
+#times div {
+   color: #fafafa;
+   background-color: rgba(0,0,0,.6);
+   width: 20%;
+   height: 300px;
+   float: left;
+
+
+
+} 
+
+#times h3 {
+    font-weight: 200;
+}
+
